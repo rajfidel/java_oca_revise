@@ -1,0 +1,24 @@
+//Numeric Promotion Rules:
+//1. Two values with different data types, will be promoted to the larger data type
+//2. One of the values is integral, the other is floating, java will automatically promote integral to floating point type
+//3. Datatypes such as byte, short and char will be promoted to int first anytime they are used with arithmetic operator.
+//4. The resulting value will have the same datatype as the type of the resulting  value.
+
+
+//Java Operators with precedence
+//Post unary  ++, --
+//Pre unary ++, --
+//Other unary +, -, !
+//Multiply/Divide/Modulas *, /, %
+//Add/Subtract +, -
+//Relational operators <, <=, >, >=, instanceof, ==, !=
+//Logical operators &, |, ^
+//Short-circuit logical &&, ||
+//Ternary ? :
+
+//Switch statements accept:
+//1. byte, short, int, char and their wrapper classes Byte, Short, Integer, Character
+//2. enum added in Java 5
+//3. String added in Java 7
+//Values in case statement should be compile time constants.
+

@@ -1,0 +1,32 @@
+1. AD
+2. ABD
+3. C. <-- Incorrect. Correct ans is F.
+4. BCDF
+5. C
+6. F
+7. D
+8. B
+9. F
+10. D
+11. A
+12. D
+13. A
+14. C
+15. E
+16. D
+17. D
+i = 9, result = 13
+i = 8, result = 11
+18. B
+row = 1, col = 1, count = 1
+row = 1, col = 2, count = 1
+row = 2, col = 1, count = 1
+row = 2, col = 2, count = 1
+row = 3, col = 1, count = 2
+row = 3, col = 2, count = 2
+19. D
+m = 9, n = 1, x = 0
+m = 8, n = 3, x = 11
+m = 7, n = 5, x = 23
+m = 6, n = 7, x = 36
+20. B
